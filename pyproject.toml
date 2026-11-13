@@ -1,0 +1,12 @@
+[project]
+name = "summit-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "marimo>=0.25.2",
+]
